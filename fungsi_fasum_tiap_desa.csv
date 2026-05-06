@@ -1,0 +1,215 @@
+Fungsi,desa,ID
+Industri,BOKO HARJO,4
+Industri,DONOHARJO,1
+Industri,GIRI KERTO,1
+Industri,KALI TIRTO,2
+Industri,MAGUWOHARJO,13
+Industri,PANDOWO HARJO,1
+Industri,PURWO MARTANI,8
+Industri,SELO MARTANI,1
+Industri,SENDANG TIRTO,1
+Industri,SENDANGADI,3
+Industri,SIDOLUHUR,1
+Industri,SINDUADI,1
+Industri,SUMBER HARJO,1
+Industri,TEGAL TIRTO,1
+Industri,TIRTO MARTANI,5
+Industri,TRIDADI,2
+Industri,TRIHANGGO,2
+Kantor Pemerintahan,ARGO MULYO,2
+Kantor Pemerintahan,BIMO MARTANI,1
+Kantor Pemerintahan,BOKO HARJO,6
+Kantor Pemerintahan,CATUR TUNGGAL,9
+Kantor Pemerintahan,CONDONG CATUR,7
+Kantor Pemerintahan,DONOKERTO,4
+Kantor Pemerintahan,GIRI KERTO,1
+Kantor Pemerintahan,HARGO BINANGUN,3
+Kantor Pemerintahan,JOGO TIRTO,1
+Kantor Pemerintahan,KALI TIRTO,3
+Kantor Pemerintahan,KEPUH HARJO,1
+Kantor Pemerintahan,MADU REJO,3
+Kantor Pemerintahan,MAGUWOHARJO,12
+Kantor Pemerintahan,MARGO REJO,2
+Kantor Pemerintahan,MARGOAGUNG,1
+Kantor Pemerintahan,MARGODADI,1
+Kantor Pemerintahan,MARGOMULYO,1
+Kantor Pemerintahan,MERDIKO REJO,1
+Kantor Pemerintahan,NOGOTIRTO,1
+Kantor Pemerintahan,PURWO BINANGUN,1
+Kantor Pemerintahan,PURWO MARTANI,3
+Kantor Pemerintahan,SELO MARTANI,2
+Kantor Pemerintahan,SENDANG MULYO,3
+Kantor Pemerintahan,SENDANG REJO,1
+Kantor Pemerintahan,SENDANG TIRTO,2
+Kantor Pemerintahan,SENDANGADI,1
+Kantor Pemerintahan,SENDANGAGUNG,1
+Kantor Pemerintahan,SIDOAGUNG,3
+Kantor Pemerintahan,SIDOKARTO,1
+Kantor Pemerintahan,SIDOLUHUR,4
+Kantor Pemerintahan,SINDUADI,1
+Kantor Pemerintahan,SINDUHARJO,1
+Kantor Pemerintahan,SUKO HARJO,3
+Kantor Pemerintahan,SUMBER AGUNG,4
+Kantor Pemerintahan,SUMBER HARJO,1
+Kantor Pemerintahan,TAMAN MARTANI,3
+Kantor Pemerintahan,TEGAL TIRTO,2
+Kantor Pemerintahan,TIRTO MARTANI,8
+Kantor Pemerintahan,TIRTOADI,2
+Kantor Pemerintahan,TLOGOADI,1
+Kantor Pemerintahan,TRIDADI,20
+Kantor Pemerintahan,TRIHARJO,2
+Kantor Pemerintahan,UMBULMARTANI,1
+Kantor Pemerintahan,WEDOMARTANI,2
+Kantor Pemerintahan,WIDODO MARTANI,3
+Kantor Pemerintahan,WONO KERTO,1
+Kantor Pemerintahan,WUKIR HARJO,1
+Kantor Pemerintahan,WUKIR SARI,1
+Kesehatan,BIMO MARTANI,1
+Kesehatan,CONDONG CATUR,2
+Kesehatan,DONOKERTO,1
+Kesehatan,HARGO BINANGUN,1
+Kesehatan,MADU REJO,1
+Kesehatan,MAGUWOHARJO,1
+Kesehatan,MARGOKATON,2
+Kesehatan,PANDOWO HARJO,1
+Kesehatan,PURWO MARTANI,2
+Kesehatan,SARI HARJO,1
+Kesehatan,SENDANG TIRTO,1
+Kesehatan,SIDOAGUNG,1
+Kesehatan,SUKO HARJO,1
+Kesehatan,SUMBERARUM,1
+Kesehatan,TAMBAK REJO,1
+Kesehatan,TEGAL TIRTO,1
+Kesehatan,TIRTO MARTANI,2
+Kesehatan,TRIHARJO,1
+Kesehatan,WEDOMARTANI,1
+Kesehatan,WIDODO MARTANI,1
+Kesehatan,WONO KERTO,1
+Monumen,SINDUADI,1
+Pasar Tradisional,BIMO MARTANI,1
+Pasar Tradisional,BOKO HARJO,1
+Pasar Tradisional,CONDONG CATUR,3
+Pasar Tradisional,JOGO TIRTO,1
+Pasar Tradisional,MADU REJO,1
+Pasar Tradisional,MAGUWOHARJO,2
+Pasar Tradisional,PURWO MARTANI,1
+Pasar Tradisional,SELO MARTANI,3
+Pasar Tradisional,SENDANG TIRTO,1
+Pasar Tradisional,SINDUHARJO,1
+Pasar Tradisional,TIRTO MARTANI,1
+Pasar Tradisional,TLOGOADI,1
+Pasar Tradisional,TRIDADI,1
+Pasar Tradisional,WIDODO MARTANI,1
+Pasar Tradisional,WONO KERTO,1
+Pendidikan,BANGUN KERTO,1
+Pendidikan,BANYU REJO,1
+Pendidikan,BIMO MARTANI,3
+Pendidikan,BOKO HARJO,4
+Pendidikan,CATUR TUNGGAL,39
+Pendidikan,CONDONG CATUR,12
+Pendidikan,DONOHARJO,2
+Pendidikan,DONOKERTO,2
+Pendidikan,GIRI KERTO,5
+Pendidikan,HARGO BINANGUN,7
+Pendidikan,JOGO TIRTO,1
+Pendidikan,KALI TIRTO,5
+Pendidikan,KEPUH HARJO,4
+Pendidikan,LUMBUNG REJO,1
+Pendidikan,MADU REJO,4
+Pendidikan,MAGUWOHARJO,16
+Pendidikan,MARGO REJO,1
+Pendidikan,MARGOAGUNG,1
+Pendidikan,MARGODADI,1
+Pendidikan,MARGOKATON,1
+Pendidikan,MARGOLUWIH,1
+Pendidikan,MERDIKO REJO,4
+Pendidikan,MINOMARTANI,1
+Pendidikan,PANDOWO HARJO,2
+Pendidikan,PURWO BINANGUN,2
+Pendidikan,PURWO MARTANI,6
+Pendidikan,SAMBI REJO,1
+Pendidikan,SARDONOHARJO,2
+Pendidikan,SARI HARJO,3
+Pendidikan,SELO MARTANI,4
+Pendidikan,SENDANG TIRTO,1
+Pendidikan,SENDANGADI,1
+Pendidikan,SENDANGSARI,5
+Pendidikan,SIDOLUHUR,2
+Pendidikan,SIDOREJO,1
+Pendidikan,SINDUADI,8
+Pendidikan,SINDUHARJO,5
+Pendidikan,SUKO HARJO,1
+Pendidikan,SUMBER AGUNG,2
+Pendidikan,SUMBER HARJO,3
+Pendidikan,SUMBERADI,1
+Pendidikan,SUMBERRAHAYU,1
+Pendidikan,TAMAN MARTANI,6
+Pendidikan,TEGAL TIRTO,4
+Pendidikan,TIRTO MARTANI,6
+Pendidikan,TRIDADI,9
+Pendidikan,TRIHANGGO,2
+Pendidikan,TRIHARJO,1
+Pendidikan,UMBUL HARJO,3
+Pendidikan,UMBULMARTANI,1
+Pendidikan,WEDOMARTANI,6
+Pendidikan,WIDODO MARTANI,1
+Pendidikan,WONO KERTO,3
+Pendidikan,WUKIR SARI,3
+Tempat Bersejarah,BOKO HARJO,1
+Tempat Bersejarah,CONDONG CATUR,1
+Tempat Bersejarah,HARGO BINANGUN,1
+Tempat Bersejarah,MARGOAGUNG,1
+Tempat Bersejarah,MERDIKO REJO,1
+Tempat Bersejarah,PURWO MARTANI,1
+Tempat Bersejarah,SAMBI REJO,1
+Tempat Bersejarah,SARI HARJO,1
+Tempat Bersejarah,SIDOLUHUR,1
+Tempat Bersejarah,TIRTO MARTANI,2
+Tempat Bersejarah,WIDODO MARTANI,1
+Tempat Ibadah,BANGUN KERTO,3
+Tempat Ibadah,BOKO HARJO,2
+Tempat Ibadah,CATUR HARJO,1
+Tempat Ibadah,CATUR TUNGGAL,2
+Tempat Ibadah,CONDONG CATUR,6
+Tempat Ibadah,DONOHARJO,1
+Tempat Ibadah,HARGO BINANGUN,5
+Tempat Ibadah,KALI TIRTO,5
+Tempat Ibadah,MADU REJO,3
+Tempat Ibadah,MAGUWOHARJO,3
+Tempat Ibadah,MARGO REJO,2
+Tempat Ibadah,MARGOAGUNG,1
+Tempat Ibadah,MARGOKATON,1
+Tempat Ibadah,MARGOLUWIH,1
+Tempat Ibadah,MARGOMULYO,2
+Tempat Ibadah,MINOMARTANI,2
+Tempat Ibadah,PANDOWO HARJO,3
+Tempat Ibadah,PURWO MARTANI,2
+Tempat Ibadah,SENDANG MULYO,1
+Tempat Ibadah,SENDANG REJO,2
+Tempat Ibadah,SENDANG TIRTO,1
+Tempat Ibadah,SENDANGADI,5
+Tempat Ibadah,SENDANGAGUNG,1
+Tempat Ibadah,SENDANGSARI,3
+Tempat Ibadah,SIDOAGUNG,3
+Tempat Ibadah,SIDOARUM,1
+Tempat Ibadah,SIDOKARTO,1
+Tempat Ibadah,SIDOLUHUR,3
+Tempat Ibadah,SIDOMOYO,1
+Tempat Ibadah,SINDUADI,1
+Tempat Ibadah,SUMBER AGUNG,2
+Tempat Ibadah,SUMBER REJO,1
+Tempat Ibadah,SUMBERADI,3
+Tempat Ibadah,SUMBERARUM,2
+Tempat Ibadah,TAMAN MARTANI,2
+Tempat Ibadah,TEGAL TIRTO,1
+Tempat Ibadah,TIRTO MARTANI,6
+Tempat Ibadah,TIRTOADI,2
+Tempat Ibadah,TRIDADI,4
+Tempat Ibadah,TRIHANGGO,5
+Tempat Ibadah,TRIHARJO,1
+Tempat Ibadah,UMBUL HARJO,1
+Tempat Ibadah,WEDOMARTANI,2
+Tempat Ibadah,WONO KERTO,2
+Terminal,HARGO BINANGUN,1
+Terminal,TAMAN MARTANI,1
+Terminal,WONO KERTO,1
